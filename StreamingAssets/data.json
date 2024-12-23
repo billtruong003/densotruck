@@ -1,0 +1,122 @@
+[
+    {
+        "name": "CargoBox1",
+        "type": "Glass",
+        "position": {
+            "x": -2.5,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 90,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 1
+    },
+    {
+        "name": "CargoBox2",
+        "type": "Wood",
+        "position": {
+            "x": -2.5,
+            "y": 1,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 2
+    },
+    {
+        "name": "CargoBox3",
+        "type": "Wood",
+        "position": {
+            "x": -2.5,
+            "y": 1,
+            "z": -1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 3
+    },
+    {
+        "name": "CargoBox1",
+        "type": "Glass",
+        "position": {
+            "x": -2.5,
+            "y": 2,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 90,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 4
+    },
+    {
+        "name": "CargoBox2",
+        "type": "Wood",
+        "position": {
+            "x": -2.5,
+            "y": 2,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 5
+    },
+    {
+        "name": "CargoBox3",
+        "type": "Wood",
+        "position": {
+            "x": -2.5,
+            "y": 2,
+            "z": -1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "size": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "step": 6
+    }
+]

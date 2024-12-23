@@ -1,0 +1,7 @@
+ID_DB,size_x(mm),size_y(mm),size_z(mm),position_x(mm),position_y(mm),position_z(mm),loading_sequence,warehouse,consignee,weight(g),weight_with_package(g),ID_product
+1,1,1,1,-2.5,1,1,1,Tokyo,Osaka,1000,1200,CB0001
+2,1,1,1,-2.5,1,0,2,Tokyo,Osaka,1500,1800,CB0002
+3,1,1,1,-2.5,1,-1,3,Tokyo,Osaka,1500,1800,CB0003
+4,1,1,1,-2.5,2,1,4,Tokyo,Osaka,1000,1200,CB0004
+5,1,1,1,-2.5,2,0,5,Tokyo,Osaka,1500,1800,CB0005
+6,1,1,1,-2.5,2,-1,6,Tokyo,Osaka,1500,1800,CB0006
